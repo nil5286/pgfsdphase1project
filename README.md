@@ -17,6 +17,7 @@ Complete the prototype of the application by understanding the requirements and 
 Trainer – Virendra Sharma
 
 Git Repo - https://github.com/nil5286/pgfsdphase1project.git
-https://github.com/nil5286/pgfsdphase1project/tree/main/phase1project
+
+Git Repo to project folder - https://github.com/nil5286/pgfsdphase1project/tree/main/phase1project
 
 Batch - PGP FSD MAY 2022 Cohort 1
