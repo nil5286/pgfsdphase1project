@@ -1,6 +1,7 @@
 # pgfsdphase1project
 
 Phase 1 Project
+
 File Management Project - LockedMe
 
 Developer -  Nilesh Lulla
@@ -11,6 +12,8 @@ Objective –
 Complete the prototype of the application by understanding the requirements and planning the development in terms of sprints and then push the source code to the GitHub repository. As this is a prototyped application, the user interaction will be via a command line.
 
 Trainer – Virendra Sharma
+
 Git Repo - https://github.com/nil5286/pgfsdphase1project.git
 https://github.com/nil5286/pgfsdphase1project/tree/main/phase1project
+
 Batch - PGP FSD MAY 2022 Cohort 1
